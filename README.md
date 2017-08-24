@@ -6,5 +6,5 @@ Feel free to mail me at zielinska.emilka@gmail.com if you'd like to hire me as j
 
 
 Project: [Breeze](https://www.behance.net/gallery/52622703/Free-Website-Template-BREEZE).
-Site preview: [github pages](https://ezielinska.github.io/breeze-static/dist).
+Site preview: [github pages](https://ezielinska.github.io/breeze-static/).
 
