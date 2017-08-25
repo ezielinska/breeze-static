@@ -45,13 +45,18 @@
         });
     }
 
-
-
+    $(document).on('click', 'a', function(event) {
+        event.preventDefault();
+        $('body').animate({
+            scrollTop: $($.attr(this, 'href')).offset().top
+        }, 500);
+    });
     $(document).ready(function() {
 
         _handleHeaderClass();
         _featuresList();
         _showAllRates();
+        _owlCarousel();
     });
 
     $(window).scroll(function() {

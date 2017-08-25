@@ -17,5 +17,8 @@
     "gulp-rename": "^1.2.2",
     "http": "0.0.0",
     "st": "^1.2.0"
+  },
+  "dependencies": {
+    "owl.carousel": "^2.2.0"
   }
 }
